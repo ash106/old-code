@@ -1,0 +1,7 @@
+MAMMAL Tony tiger 550 20 tame cereal
+BIRD Woody woodpecker 2 20 funny blue
+BIRD Daffy duck 3 5 angry black
+MAMMAL Wiley coyote 34 14 fast roadrunners
+MAMMAL Buddy rabbit 5 7 clever carrots
+BIRD Tweety canary 2 9 naive yellow
+MAMMAL Sylvester cat 12 10 persistent birds
